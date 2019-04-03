@@ -1,8 +1,8 @@
 # PSPNet-tensorflow-chapter1
 
-This is the first chapter of the segmentation network summary: the traditional typical segmentation network.
+The chapter1 of the segmentation network summary: The traditional typical segmentation network.
 
-Github has many different versions of classic web sites like Deeplab,SegNet, etc. Here, I only published the code of PSPNet modified and debugged by myself, and used it for the training and test of my own data set (since the data set belongs to the laboratory and cannot be leaked, I did not add the test results of data).
+Github has many different versions of segmentation network like Deeplab,SegNet, etc. Here, I only published the code of PSPNet modified and debugged by myself, and used it for the training and test of my own data set (since the data set belongs to the laboratory and cannot be leaked, I did not add the test results of data).
 
 External links: Pyramid Scene Parsing Network [paper](https://arxiv.org/abs/1612.01105) and [official github](https://github.com/hszhao/PSPNet).
 

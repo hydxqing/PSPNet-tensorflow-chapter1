@@ -8,7 +8,7 @@ External links: Pyramid Scene Parsing Network [paper](https://arxiv.org/abs/1612
 
 Here I would like to thank [holyseven](https://github.com/holyseven) for using PSPNet on my dataset by modifying his code. Please read the [details](https://github.com/holyseven/PSPNet-TF-Reproduce).
 
-# Note
+# Notes
 
 1. In addition to the new ASPP structure proposed by the network, there is also an auxiliary loss in the network. It is verified by our own experiments that the auxiliary loss can indeed accelerate the model convergence.
 
